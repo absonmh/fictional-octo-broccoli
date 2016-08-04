@@ -1,6 +1,6 @@
 (function()
 {
-	if (!document.getElementById("map-type-control")) 
+	if (!document.getElementByClass("gmnoprint")) 
 	{
 		return;
 	}
